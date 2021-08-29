@@ -1,4 +1,4 @@
-# A-simple-User-interface-Computer-Networks-
+# A-simple-User-interface-Computer-Networks
 
 A user interface is created to get some basic information about computer networks
 Inthis project there is no need to write seperate program to get the information about IP like subnet mask, IP type, its class even the binary representation also included in this UI 
